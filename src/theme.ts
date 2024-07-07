@@ -1,4 +1,5 @@
-import { extendTheme, Theme, ThemeConfig } from "@chakra-ui/react";
+import { extendTheme, ThemeConfig } from "@chakra-ui/react";
+// Theme,
 
 const config: ThemeConfig = {
   initialColorMode: "dark",
